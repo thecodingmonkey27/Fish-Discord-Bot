@@ -5,7 +5,7 @@ from time import sleep
 channel = ''
 my_secret = '' # Your token here
 client = discord.Client()
-send == True
+send = True
 
 @client.event
 async def on_ready():
